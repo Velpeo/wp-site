@@ -49,6 +49,14 @@
 	   "WPCOM_API_KEY": {
 		   "description": "If you hardcode a WP.com API key here, all key config screens will be hidden",
 		   "value": "your-key"
+		  },
+		"WP_HOME": {
+		   "description": "'WP_HOME' and 'home' refer to the 'Site Address (URL)' or what you want regular visitors to type in their browser. ",
+		   "value": "http://example.com"
+		  },
+		"WP_SITEURL": {
+		   "description": " 'WP_SITEURL' and 'siteurl' refer to the 'WordPress Address (URL)' or the address where your WordPress core files reside.",
+		   "value": "http://example.com"
 		  }
    }
 }
