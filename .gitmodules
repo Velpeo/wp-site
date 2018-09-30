@@ -1,0 +1,3 @@
+[submodule "wp-content/themes/responsive"]
+	path = wp-content/themes/responsive
+	url = https://github.com/cyberchimps/responsive
